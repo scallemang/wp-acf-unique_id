@@ -1,6 +1,6 @@
 {
     "name": "KLicheR/wp-acf-unique_id",
-    "version": "1.0.2",
+    "version": "1.0.1",
     "description": "WP ACF Unique ID for repeaters plugin",
     "type": "wordpress-plugin",
     "license": "GPL-2.0",
