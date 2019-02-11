@@ -1,0 +1,11 @@
+{
+    "name": "KLicheR/wp-acf-unique_id",
+    "version": "1.0.0",
+    "description": "WP ACF Unique ID for repeaters plugin",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0",
+    "minimum-stability": "dev",
+    "require": {},
+    "keywords": ["wordpress","acf","plugin"],
+    "homepage": "https://github.com/KLicheR/wp-acf-unique_id"
+}
